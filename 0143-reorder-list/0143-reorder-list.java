@@ -8,31 +8,41 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
-import java.util.ArrayList;
-
 class Solution {
     public void reorderList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        ListNode curr = head;
+        
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(curr != null){
-            arr.add(curr.val);
-            curr = curr.next;
+        while(fast.next != null && fast.next.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        curr = head;
-        int l = 0;
-        int r = arr.size()-1;
+        ListNode prev = null;
+        ListNode curr = slow.next;
+        slow.next = null;
 
         while(curr != null){
-            curr.val = arr.get(l);
-            curr = curr.next;
-            if(curr == null) break;
-            curr.val = arr.get(r);
-            curr = curr.next;
-            l++;
-            r--;
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+
+        ListNode first = head;
+        ListNode second = prev;
+
+        while(second != null){
+            ListNode firstNext = first.next;
+            ListNode secondNext = second.next;
+
+            first.next = second;
+            second.next = firstNext;
+
+            first = firstNext;
+            second = secondNext;
+        }
+
     }
 }
