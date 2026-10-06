@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
