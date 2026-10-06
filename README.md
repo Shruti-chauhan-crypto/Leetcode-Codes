@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
