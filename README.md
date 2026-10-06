@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
