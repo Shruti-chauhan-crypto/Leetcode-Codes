@@ -7,5 +7,4 @@ from Employee as e
 left join Bonus as b
 on e.empID = b.empId
 
-where b.bonus is NULL
-    OR b.bonus < 1000
+where b.bonus is NULL OR b.bonus < 1000
