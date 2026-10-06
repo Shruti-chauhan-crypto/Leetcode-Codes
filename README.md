@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
