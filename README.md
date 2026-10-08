@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0148-sort-list) |
+| [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
