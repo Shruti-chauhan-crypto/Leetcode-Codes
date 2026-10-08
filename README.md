@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
