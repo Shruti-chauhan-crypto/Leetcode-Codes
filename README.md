@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
 | [1472-design-browser-history](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1472-design-browser-history) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
