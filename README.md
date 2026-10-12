@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
