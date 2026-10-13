@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1472-design-browser-history) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
