@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
