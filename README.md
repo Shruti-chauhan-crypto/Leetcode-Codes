@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
 | [1472-design-browser-history](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1472-design-browser-history) |
+| [1646-get-maximum-in-generated-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1646-get-maximum-in-generated-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1991-find-the-middle-index-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1991-find-the-middle-index-in-array) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
