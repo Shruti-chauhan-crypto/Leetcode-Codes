@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1021-remove-outermost-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
