@@ -151,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1472-design-browser-history) |
 | [1646-get-maximum-in-generated-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1646-get-maximum-in-generated-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
