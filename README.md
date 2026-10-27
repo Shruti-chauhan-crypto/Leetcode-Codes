@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0148-sort-list) |
+| [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
