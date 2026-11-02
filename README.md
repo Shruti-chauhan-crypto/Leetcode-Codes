@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0061-rotate-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0229-majority-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
