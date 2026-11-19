@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
