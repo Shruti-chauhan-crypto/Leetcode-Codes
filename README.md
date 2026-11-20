@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Data Stream
 |  |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
