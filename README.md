@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0090-subsets-ii) |
 ## Math
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0169-majority-element) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0386-lexicographical-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
