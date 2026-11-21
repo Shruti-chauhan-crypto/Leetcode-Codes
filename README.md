@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
