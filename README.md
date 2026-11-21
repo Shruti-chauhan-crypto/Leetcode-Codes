@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
 ## Bit Manipulation
 |  |
@@ -283,5 +287,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
