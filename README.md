@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0304-range-sum-query-2d-immutable) |
+| [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
@@ -293,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
