@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
+| [0647-palindromic-substrings](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1021-remove-outermost-parentheses) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
