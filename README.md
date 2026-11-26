@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Data Stream
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -322,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/1971-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shruti-chauhan-crypto/Leetcode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
